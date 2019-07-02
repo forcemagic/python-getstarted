@@ -24,7 +24,7 @@ Great job, you got Python! :tada:
 
 IDE means Integrated Development Environment. It's basically a text editor, but you write code in it.
 IDEs "integrate" with the programming language and try to help you in any way possible.  
-Also, they looks cool. :sunglasses:
+Also, they look cool. :sunglasses:
 
 ### Python recommended IDE: IDLE
 
