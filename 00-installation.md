@@ -39,9 +39,8 @@ Microsoft has built a pretty cool IDE, called Visual Studio Code (or vscode for 
 for developers of all kinds in the last couple years.
 
 It has lots of plugins to support your language of choice, and the Python one is just... flawless.
-
 Advanced autocomplete (with complete documentation), syntax highlighting and checking, debugging on-demand,
-online collaboration (edit a file) do I need to say more?
+online collaboration (think Google Docs) do I need to say more?
 
 Just give it a try! Here it is: [VSCode Homepage](https://code.visualstudio.com/)
 See? This is me writing this documentation in it!
