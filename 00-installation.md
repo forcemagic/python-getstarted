@@ -42,10 +42,12 @@ It has lots of plugins to support your language of choice, and the Python one is
 Advanced autocomplete (with complete documentation), syntax highlighting and checking, debugging on-demand,
 online collaboration (think Google Docs) do I need to say more?
 
-Just give it a try! Here it is: [VSCode Homepage](https://code.visualstudio.com/)
-See? This is me writing this documentation in it!
+Just give it a try! Get it [here](https://code.visualstudio.com/) now!  
+I'm even writing this documentation in it!
 
 ![vscode-mewritingdocs](https://i.imgur.com/Z25xT1i.jpg)
+
+> Note: I am not affiliated with Microsoft. I just like this editor :D
 
 ### Other, mentionable IDEs
 
