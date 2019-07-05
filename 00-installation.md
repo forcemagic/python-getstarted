@@ -22,8 +22,9 @@ Great job, you got Python! :tada:
 
 ## Choosing an IDE
 
-IDE means Integrated Development Environment. It "integrates" with the programming language and tries to help you in any way
-possible. Also, it looks cool. :sunglasses:
+IDE means Integrated Development Environment. It's basically a text editor, but you write code in it.
+IDEs "integrate" with the programming language and try to help you in any way possible.  
+Also, they look cool. :sunglasses:
 
 ### Python recommended IDE: IDLE
 
