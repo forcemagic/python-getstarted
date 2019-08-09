@@ -38,7 +38,7 @@ Don't get too comfy, though. This is just the beginning of a long journey.
 Whenever you're ready, move on to [Chapter 2: Knock Knock](./02-knock-knock.md)!
 
 <hr>
-<small><a name="note">*</a> Make sure to install the Python extension first!</small>
+<p style="font-size: 8px"><a name="note">*</a> Make sure to install the Python extension first!</p>
 
 <!--
 ## Math Wars
