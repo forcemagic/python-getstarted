@@ -28,13 +28,16 @@ with real-world printers. It writes output!
 >            computers communicated with people through [teleprinters](https://en.wikipedia.org/wiki/Teleprinter)
 >            (or teletypewriters), which *print* out actual characters, hence the name "print".
 
-Now let's try it out! Grab your IDE and your keyboard, and try to `print` something to the screen.
+Now let's try it out! Grab your IDE and your keyboard, and try to `print` something to the screen. (If you use VS Code, just<sup>[*](#note)</sup> press F5 to run your masterpiece!)
 
 > Note: Please do not leave out the quotation marks! (`"`) They are **always** required when dealing with text (string).
 >       This will be further discussed in the chapter Variables.
 <!-- TODO: Link the variables chapter -->
 
 Did it work? It did, didn't it? <!-- TODO: Continue -->
+
+<a name="note"></a>*: Make sure to install the Python extension first!
+
 <!--
 ## Math Wars
 
