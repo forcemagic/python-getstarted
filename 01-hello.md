@@ -36,7 +36,7 @@ Now let's try it out! Grab your IDE and your keyboard, and try to `print` someth
 
 Did it work? It did, didn't it? <!-- TODO: Continue -->
 
-<a name="note"></a>*: Make sure to install the Python extension first!
+<a name="note"></a>*Make sure to install the Python extension first!
 
 <!--
 ## Math Wars
