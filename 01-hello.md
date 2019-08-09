@@ -14,8 +14,8 @@ isn't it?
 
 ## Hot off the printing press
 
-Ready for your first program? Here it is! The most useful, yet absolutely short function
-that every programmer ought to know:
+Ready for your first program? Here it is! It includes the most useful, yet absolutely
+short function that every programmer ought to know:
 
 ```python
 print("Hey there!")
@@ -25,18 +25,20 @@ print("Hey there!")
 with real-world printers. It writes output!
 
 > **Note:** "Print" here is a historical term. Before the [ENIAC](https://en.wikipedia.org/wiki/ENIAC),
->            computers communicated with people through [teleprinters](https://en.wikipedia.org/wiki/Teleprinter)
->            (or teletypewriters), which *print* out actual characters, hence the name "print".
+>           computers communicated with people through [teleprinters](https://en.wikipedia.org/wiki/Teleprinter)
+>           (or teletypewriters), which *print* out actual characters, hence the name "print".
 
-Now let's try it out! Grab your IDE and your keyboard, and try to `print` something to the screen. (If you use VS Code, just<sup>[*](#note)</sup> press F5 to run your masterpiece!)
+Now let's try it out! Grab your IDE and your keyboard, and try to `print` something to the screen.
+Be sure not to miss the quotation marks! (If you use VS Code, just<sup>[*](#note)</sup>
+press F5 to run your masterpiece!)
 
-> Note: Please do not leave out the quotation marks! (`"`) They are **always** required when dealing with text (string).
->       This will be further discussed in the chapter Variables.
-<!-- TODO: Link the variables chapter -->
+That's it! Your first program written in Python! :tada:  
+Don't get too comfy, though. This is just the beginning of a long journey.
 
-Did it work? It did, didn't it? <!-- TODO: Continue -->
+Whenever you're ready, move on to [Chapter 2: Knock Knock](./02-knock-knock.md)!
 
-<a name="note"></a>*Make sure to install the Python extension first!
+<hr>
+<small><a name="note">*</a> Make sure to install the Python extension first!</small>
 
 <!--
 ## Math Wars
