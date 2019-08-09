@@ -61,6 +61,6 @@ Not a fan of these? I've got you covered. Here's a short list of some of the men
 
 Still not enough? Go [here](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments) for more!
 
-### Are you ready?
+## Are you ready?
 
 If you are, then head over to [Chapter 1: Hello!](./01-hello.md)
